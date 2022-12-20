@@ -13,7 +13,7 @@ Here we can use motion sensor/detector at the bottom of every road-side light st
 ## Competitive Advantage:
 It will be cheaper and more efficient and will save money compared to normal switched lights or solar lights. We can also combine solar technology with this to completely negate energy consumption.
 
-##Personal Details
+## Personal Details
 * Name : Sayak Banerjee
 * Registration Number: 2241002021
 * Year: 1st
